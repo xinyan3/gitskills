@@ -3,9 +3,5 @@ master added
 dev added
 
 
-<<<<<<< HEAD
-dev modify ans d1232 test
-=======
-dev modify AND test
->>>>>>> master
+<
 
