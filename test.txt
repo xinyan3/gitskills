@@ -2,4 +2,4 @@ master added
 
 dev added
 
-dev modify
+dev modify && test
